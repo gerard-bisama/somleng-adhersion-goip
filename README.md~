@@ -1,5 +1,5 @@
 # Somleng-Adhearsion-GoIP
-Copied from Somleng [Somleng-Adhearsion](https://github.com/somleng/somleng) to allow adhearsion to refers to local resource through SSL without requiring certificate authority verification.
+Copied from Somleng [Somleng-Adhearsion](https://github.com/somleng/somleng) to allow adhearsion to refers to local resource through SSL without requiring certificate authority verification
 
 [![Build Status](https://travis-ci.org/somleng/freeswitch-config.svg?branch=master)](https://travis-ci.org/somleng/freeswitch-config)
 
